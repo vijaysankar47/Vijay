@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-23 14:21:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>dfa70a634f284c90248744b18110c7c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_18793_github1_table.x_18793_github1.user</sys_name>
+        <sys_package display_value="GitHub1" source="x_18793_github1">03a7c2634f284c90248744b18110c723</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GitHub1">03a7c2634f284c90248744b18110c723</sys_scope>
+        <sys_security_acl display_value="x_18793_github1_table">1fa70a634f284c90248744b18110c7b2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dfa70a634f284c90248744b18110c7c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-23 14:21:21</sys_updated_on>
+        <sys_user_role display_value="x_18793_github1.user" name="x_18793_github1.user">47a70a634f284c90248744b18110c70c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

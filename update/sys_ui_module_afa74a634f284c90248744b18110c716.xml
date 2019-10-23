@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="GitHub1">2fa74a634f284c90248744b18110c714</application>
+        <filter/>
+        <name>GitHub1 Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_18793_github1.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-23 14:21:23</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>afa74a634f284c90248744b18110c716</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GitHub1 Table</sys_name>
+        <sys_package display_value="GitHub1" source="x_18793_github1">03a7c2634f284c90248744b18110c723</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GitHub1">03a7c2634f284c90248744b18110c723</sys_scope>
+        <sys_update_name>sys_ui_module_afa74a634f284c90248744b18110c716</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-23 14:21:23</sys_updated_on>
+        <table>x_18793_github1_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
